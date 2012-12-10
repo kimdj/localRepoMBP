@@ -1,0 +1,10 @@
+#!/bin/bash
+
+function Hello () {
+	echo "hello"
+}
+
+Hello
+
+
+exit 0
